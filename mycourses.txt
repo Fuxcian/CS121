@@ -1,0 +1,4 @@
+course credits score
+ACR321 3 90
+ART210 3 90
+ART211 3 93
